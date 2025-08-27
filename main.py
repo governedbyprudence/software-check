@@ -2,7 +2,7 @@ def f():
     print("hello")
 
 def f2():
-    print("f6")
+    print("f9")
 
 
 f()
